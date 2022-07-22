@@ -1,6 +1,8 @@
 # Object Detection using the YOLO CNN with OpenCV and Python 
 #### Modified by [VHEED](https://twitter.com/The_Vheed)
 
+[![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
+
 The OpenCV _**dnn**_ module supports running inference on pre-trained deep learning models from popular frameworks like Caffe, Torch and TensorFlow.
 
 When it comes to object detection, popular detection frameworks are
@@ -43,6 +45,11 @@ After that, just run the script with:
 ```commandline
 python3 main.py
 ```
+
+### Sample Output
+![](sample_output.gif)
+
+(**Note**: Output video is much crispier than the GIF shown above)
 
 ### Additional Info
 
